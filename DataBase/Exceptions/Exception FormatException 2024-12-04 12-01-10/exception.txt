@@ -1,0 +1,4 @@
+Exception: System.FormatException: Количество должно быть положительным числом и не больше 500!
+   at ClassLibraryEME.AbstractItem.IsQuantityInt(String quantity) in C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\AbstractItem.cs:line 39
+   at LibraryAssignmentWPF.UserControls.EditJournal2.EditQuantity() in C:\Users\user\Desktop\ClassLibraryEME — копия\LibraryAssortimentWPF\UserControls\EditJournal2.xaml.cs:line 251 
+Date: 12/4/2024 12:01:10 PM

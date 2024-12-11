@@ -1,0 +1,44 @@
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfoInputs.cache
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfo.cs
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.csproj.CoreCompileInputs.cache
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.deps.json
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.dll
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.pdb
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.dll
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\refint\ClassLibraryEME.dll
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.pdb
+E:\2 курс\практика 2\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ref\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.deps.json
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfo.cs
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\refint\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME\ClassLibraryEME\obj\Debug\net8.0\ref\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.deps.json
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfo.cs
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\refint\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\obj\Debug\net8.0\ref\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.deps.json
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\bin\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.AssemblyInfo.cs
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\refint\ClassLibraryEME.dll
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ClassLibraryEME.pdb
+C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\obj\Debug\net8.0\ref\ClassLibraryEME.dll

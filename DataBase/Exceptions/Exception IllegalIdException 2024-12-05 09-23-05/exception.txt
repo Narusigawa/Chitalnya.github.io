@@ -1,0 +1,4 @@
+Exception: ClassLibraryEME.IllegalIdException: ID должен состоять из 9 чисел!
+   at ClassLibraryEME.Customer.IsIdValid(String customerId) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\Customer.cs:line 46
+   at LibraryAssignmentWPF.UserControls.AddCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\LibraryAssortimentWPF\UserControls\AddCustomer.xaml.cs:line 46 
+Date: 12/5/2024 9:23:05 AM

@@ -1,0 +1,4 @@
+Exception: System.FormatException: Цена должна быть положительной и не больше 9999!
+   at ClassLibraryEME.AbstractItem.IsPriceDouble(String price) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\AbstractItem.cs:line 31
+   at LibraryAssignmentWPF.UserControls.AddComic.btnEnter_Click(Object sender, RoutedEventArgs e) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\LibraryAssortimentWPF\UserControls\AddComic.xaml.cs:line 42 
+Date: 12/5/2024 9:20:06 AM

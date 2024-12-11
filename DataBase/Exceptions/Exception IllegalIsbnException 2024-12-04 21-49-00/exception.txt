@@ -1,0 +1,4 @@
+Exception: ClassLibraryEME.IllegalIsbnException: Введенный ISBN не соответствует существующему товару!
+   at ClassLibraryEME.DataBase.IsIsbnValid(String isbn) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\DataBase.cs:line 371
+   at LibraryAssignmentWPF.UserControls.EditJournal.btnInput_Click(Object sender, RoutedEventArgs e) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\LibraryAssortimentWPF\UserControls\EditJournal.xaml.cs:line 40 
+Date: 12/4/2024 9:49:00 PM

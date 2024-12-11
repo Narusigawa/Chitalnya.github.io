@@ -1,0 +1,5 @@
+Exception: System.IO.DirectoryNotFoundException: Data base directory could not be found!
+   at ClassLibraryEME.Customer.CheckForDbExistence() in C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\Customer.cs:line 93
+   at ClassLibraryEME.Customer.LoadCustomers() in C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\Customer.cs:line 64
+   at LibraryAssortimentWPF.MainWindow..ctor() in C:\Users\user\Desktop\ClassLibraryEME — копия\LibraryAssortimentWPF\MainWindow.xaml.cs:line 21 
+Date: 12/4/2024 11:32:32 AM

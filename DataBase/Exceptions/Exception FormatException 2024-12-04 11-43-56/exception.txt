@@ -1,0 +1,4 @@
+Exception: System.FormatException: Цена должна быть положительной и не больше 9999!
+   at ClassLibraryEME.AbstractItem.IsPriceDouble(String price) in C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\AbstractItem.cs:line 31
+   at LibraryAssignmentWPF.UserControls.EditBook2.EditPrice() in C:\Users\user\Desktop\ClassLibraryEME — копия\LibraryAssortimentWPF\UserControls\EditBook2.xaml.cs:line 318 
+Date: 12/4/2024 11:43:56 AM

@@ -1,0 +1,4 @@
+Exception: ClassLibraryEME.IllegalIdException: Этот ID уже существует в клубе!
+   at ClassLibraryEME.Customer.DoesIdExistInClub(String customerId) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\ClassLibraryEME\Customer.cs:line 26
+   at LibraryAssignmentWPF.UserControls.AddCustomer.btnInput_Click(Object sender, RoutedEventArgs e) in C:\Users\user\Desktop\ClassLibraryEME — копия — копия\LibraryAssortimentWPF\UserControls\AddCustomer.xaml.cs:line 47 
+Date: 12/5/2024 9:16:04 AM

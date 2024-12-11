@@ -1,0 +1,4 @@
+Exception: System.IO.DirectoryNotFoundException: В настоящее время квитанции недоступны для отображения!
+   at ClassLibraryEME.DataBase.DoesReceiptsDirExist() in C:\Users\user\Desktop\ClassLibraryEME — копия\ClassLibraryEME\DataBase.cs:line 204
+   at LibraryAssignmentWPF.UserControls.Manager.Button_Click(Object sender, RoutedEventArgs e) in C:\Users\user\Desktop\ClassLibraryEME — копия\LibraryAssortimentWPF\UserControls\Manager.xaml.cs:line 116 
+Date: 12/4/2024 1:20:51 PM
