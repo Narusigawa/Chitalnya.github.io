@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="LibraryAssignmentWPF.UserControls.Manager"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryAssignmentWPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".2*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Background="Silver">
+                <Viewbox>
+                    <TextBlock Text="Читальня" FontSize="47" FontFamily="David" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Linen" FontWeight="Bold"/>
+                </Viewbox>
+            </Grid>
+            <Grid Grid.Row="1" Background="DarkSlateGray">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <local:MenuButton x:Name="addBook" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="addJournal" Grid.Column="2" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="addComic" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="editBook" Grid.Row="1" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="editJournal" Grid.Row="1" Grid.Column="2" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="editComic" Grid.Row="1" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="removeBook" Grid.Row="2" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="removeJournal" Grid.Row="2" Grid.Column="2" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="removeComic" Grid.Row="2" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="showAvailableBooks" Grid.Row="3" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="showAvailableJournals" Grid.Row="3" Grid.Column="2" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="showAvailableComics" Grid.Row="3" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="managePurchases" Grid.Row="4" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="showAvailableItems" Grid.Row="4" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="manageExceptions" Grid.Row="5" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="clubCustomers" Grid.Row="5" Grid.Column="3" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="mainmenu" Grid.Row="6" Grid.Column="1" Margin="5,0,5,0"/>
+                <local:MenuButton x:Name="exit" Grid.Row="6" Grid.Column="3" Margin="5,0,5,0"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

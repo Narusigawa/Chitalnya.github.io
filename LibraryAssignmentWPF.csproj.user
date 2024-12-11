@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="UserControls\AddBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddComic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddJournal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ClearableTextBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditComic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditComic2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditJournal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditBook2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\EditJournal2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ManageException.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\Manager.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\MenuButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\Receipts.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\RemoveBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\RemoveComic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\RemoveCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\RemoveJournal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\SellItems.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowAvailableItems.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowClubCustomers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowComics.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ShowJournals.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\Worker.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\AddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\AddComic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\AddCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\AddJournal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ClearableTextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditComic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditComic2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditJournal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditBook2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\EditJournal2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ManageException.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Manager.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Receipts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\RemoveBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\RemoveComic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\RemoveCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\RemoveJournal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\SellItems.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ShowAvailableItems.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ShowBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ShowClubCustomers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ShowComics.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ShowJournals.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\Worker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

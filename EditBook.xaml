@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="LibraryAssignmentWPF.UserControls.EditBook"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryAssignmentWPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="DarkSlateGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Viewbox Margin="15,0,15,0">
+            <TextBlock x:Name="title" Text="Пожалуйста, введите ISBN-номер книги, который вы хотите изменить" 
+                       Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" 
+                       FontWeight="Bold" Foreground="Linen" FontFamily="David"/>
+        </Viewbox>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Viewbox x:Name="viewBox1" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" 
+                     HorizontalAlignment="Center" Margin="5,50,5,0">
+                <local:ClearableTextBox x:Name="isbnBox" Width="220" Height="50" BoundText="ISBN"/>
+            </Viewbox>
+
+            <local:MenuButton x:Name="btnEnter" Grid.Row="1" Grid.Column="1" Margin="5,5,5,0"/>
+            <local:MenuButton x:Name="btnreturn" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" Margin="5,5,5,0"/>
+        </Grid>
+    </Grid>
+</UserControl>

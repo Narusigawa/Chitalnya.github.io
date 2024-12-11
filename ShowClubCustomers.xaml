@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="LibraryAssignmentWPF.UserControls.ShowClubCustomers"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryAssignmentWPF.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="DarkSlateGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height=".2*"/>
+            <RowDefinition/>
+            <RowDefinition Height="140"/>
+        </Grid.RowDefinitions>
+
+        <Viewbox Margin="15,0,15,0">
+            <TextBlock x:Name="title" Text="ID клиентов, вступивших в клуб:" Grid.Row="0" VerticalAlignment="Center"
+                       HorizontalAlignment="Center" FontWeight="Bold" Foreground="Linen" FontFamily="David"/>
+        </Viewbox>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+
+            <Viewbox Grid.Column="1" Margin="0,15,0,15">
+                <ListBox x:Name="listBox" Height="250" Width="600" Background="SlateGray" BorderBrush="Linen"
+                         BorderThickness="3" Foreground="White" FontSize="15"/>
+            </Viewbox>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <local:MenuButton x:Name="btnReturn" Grid.Column="0" Margin="30,15,50,15" HorizontalAlignment="Right"/>
+            <local:MenuButton x:Name="btnWord" Grid.Column="1" Margin="50,15,30,15" HorizontalAlignment="Left"/>
+        </Grid>
+    </Grid>
+</UserControl>
